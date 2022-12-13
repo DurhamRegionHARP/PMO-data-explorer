@@ -959,10 +959,10 @@
       "byGrade": {
           "labels": [ "Yes","No" ],
           "series": [ { "name": "Durham Region Grades 7 and 8", "data": [17,83], "cl": [[21,12],[88,79]],"notes": ["Not releasable due to small numbers","Not releasable due to small numbers"] },{ "name": "Durham Region Grades 9 to 12", "data": [14,86], "cl": [[18,9],[91,82]],"notes": [null,null] },{ "name": "Ontario Grades 7 and 8", "data": [14,86], "cl": [[17,10],[90,83]],"notes": [null,null] },{ "name": "Ontario Grades 9 to 12", "data": [17,83], "cl": [[19,15],[85,81]],"notes": [null,null] } ]
-      },
-    }
-  },
-  {
+           }
+      }
+    },
+    {
     "pmoID":45,
     "pmoName":"Mental Health",
     "description":"Percentage of students reporting fair to poor mental health",
@@ -980,10 +980,10 @@
       "byGrade": {
           "labels": [ "Excellent","Very Good","Good","Fair to Poor" ],
           "series": [ { "name": "Durham Region Grades 7 and 8", "data": [25,29,26,19], "cl": [[34,16],[37,22],[34,19],[24,15]],"notes": ["Not releasable due to small numbers","Not releasable due to small numbers","Not releasable due to small numbers","Not releasable due to small numbers"] },{ "name": "Durham Region Grades 9 to 12", "data": [23,24,27,26], "cl": [[31,16],[27,21],[30,23],[35,17]],"notes": ["Interpret with caution",null,null,null] },{ "name": "Ontario Grades 7 and 8", "data": [25,33,24,19], "cl": [[28,21],[36,30],[27,21],[22,15]],"notes": [null,null,null,null] },{ "name": "Ontario Grades 9 to 12", "data": [17,26,28,29], "cl": [[19,15],[28,24],[30,26],[32,26]],"notes": [null,null,null,null] } ]
-      },
-    }
-  },
-  {
+           }
+      }
+    },
+    {
     "pmoID":47,
     "pmoName":"Crisis Help",
     "description":"Percentage of students who used telephone crisis helpline/website in the past year",
@@ -1001,10 +1001,10 @@
       "byGrade": {
           "labels": [ "Excellent","Very Good","Good","Fair to Poor" ],
           "series": [ { "name": "Durham Region Grades 7 and 8", "data": [25,29,26,19], "cl": [[34,16],[37,22],[34,19],[24,15]],"notes": ["Not releasable due to small numbers","Not releasable due to small numbers","Not releasable due to small numbers","Not releasable due to small numbers"] },{ "name": "Durham Region Grades 9 to 12", "data": [23,24,27,26], "cl": [[31,16],[27,21],[30,23],[35,17]],"notes": ["Interpret with caution",null,null,null] },{ "name": "Ontario Grades 7 and 8", "data": [25,33,24,19], "cl": [[28,21],[36,30],[27,21],[22,15]],"notes": [null,null,null,null] },{ "name": "Ontario Grades 9 to 12", "data": [17,26,28,29], "cl": [[19,15],[28,24],[30,26],[32,26]],"notes": [null,null,null,null] } ]
-      },
-    }
-  },
-  {
+           }
+      }
+    },
+    {
     "pmoID":48,
     "pmoName":"Mental Health Support",
     "description":"Percentage of students who didn't know where to turn to for mental health support",
@@ -1022,10 +1022,10 @@
       "byGrade": {
           "labels": [ "Excellent","Very Good","Good","Fair to Poor" ],
           "series": [ { "name": "Durham Region Grades 7 and 8", "data": [25,29,26,19], "cl": [[34,16],[37,22],[34,19],[24,15]],"notes": ["Not releasable due to small numbers","Not releasable due to small numbers","Not releasable due to small numbers","Not releasable due to small numbers"] },{ "name": "Durham Region Grades 9 to 12", "data": [23,24,27,26], "cl": [[31,16],[27,21],[30,23],[35,17]],"notes": ["Interpret with caution",null,null,null] },{ "name": "Ontario Grades 7 and 8", "data": [25,33,24,19], "cl": [[28,21],[36,30],[27,21],[22,15]],"notes": [null,null,null,null] },{ "name": "Ontario Grades 9 to 12", "data": [17,26,28,29], "cl": [[19,15],[28,24],[30,26],[32,26]],"notes": [null,null,null,null] } ]
-      },
-    }
-  },
-  {
+           }
+      }
+    },
+    {
     "pmoID":50,
     "pmoName":"Form of Bullying",
     "description":"Form of bullying",
@@ -1043,10 +1043,10 @@
       "byGrade": {
           "labels": [ "Excellent","Very Good","Good","Fair to Poor" ],
           "series": [ { "name": "Durham Region Grades 7 and 8", "data": [25,29,26,19], "cl": [[34,16],[37,22],[34,19],[24,15]],"notes": ["Not releasable due to small numbers","Not releasable due to small numbers","Not releasable due to small numbers","Not releasable due to small numbers"] },{ "name": "Durham Region Grades 9 to 12", "data": [23,24,27,26], "cl": [[31,16],[27,21],[30,23],[35,17]],"notes": ["Interpret with caution",null,null,null] },{ "name": "Ontario Grades 7 and 8", "data": [25,33,24,19], "cl": [[28,21],[36,30],[27,21],[22,15]],"notes": [null,null,null,null] },{ "name": "Ontario Grades 9 to 12", "data": [17,26,28,29], "cl": [[19,15],[28,24],[30,26],[32,26]],"notes": [null,null,null,null] } ]
-      },
-    }
-  },
-  {
+           }
+      }
+    },
+    {
     "pmoID":44,
     "pmoName":"Suicide Attempt",
     "description":"Percentage of students who attempted suicide in the past year",
@@ -1064,10 +1064,10 @@
       "byGrade": {
           "labels": [ "Yes","No" ],
           "series": [ { "name": "Durham Region Grades 7 and 8", "data": [4,96], "cl": [[6,2],[98,94]],"notes": ["Not releasable due to small numbers","Not releasable due to small numbers"] },{ "name": "Durham Region Grades 9 to 12", "data": [3,97], "cl": [[4,1],[99,96]],"notes": ["Interpret with caution",null] },{ "name": "Ontario Grades 7 and 8", "data": [5,95], "cl": [[7,3],[97,93]],"notes": [null,null] },{ "name": "Ontario Grades 9 to 12", "data": [5,95], "cl": [[6,3],[97,94]],"notes": [null,null] } ]
-      },
-    }
-  },
-  {
+           }
+      }
+    },
+    {
     "pmoID":46,
     "pmoName":"Mental Health Visit",
     "description":"Percentage of students who visited a mental health professional in the past year",
@@ -1085,10 +1085,10 @@
       "byGrade": {
           "labels": [ "Not at all","Once","Twice or more" ],
           "series": [ { "name": "Durham Region Grades 7 and 8", "data": [71,10,19], "cl": [[78,65],[14,6],[24,14]],"notes": ["Not releasable due to small numbers","Not releasable due to small numbers","Not releasable due to small numbers"] },{ "name": "Durham Region Grades 9 to 12", "data": [78,7,15], "cl": [[82,74],[10,5],[19,11]],"notes": [null,"Interpret with caution","Interpret with caution"] },{ "name": "Ontario Grades 7 and 8", "data": [71,8,21], "cl": [[74,67],[10,6],[24,18]],"notes": [null,null,null] },{ "name": "Ontario Grades 9 to 12", "data": [74,8,18], "cl": [[77,72],[9,6],[20,16]],"notes": [null,null,null] } ]
-      },
-    }
-  },
-  {
+           }
+      }
+    },
+    {
     "pmoID":49,
     "pmoName":"Elevated Stress",
     "description":"Percentage of students experiencing elevated stress in the past month",
@@ -1106,10 +1106,10 @@
       "byGrade": {
           "labels": [ "More than I  could take/Alot","Some/A little","Not at all" ],
           "series": [ { "name": "Durham Region Grades 7 and 8", "data": [19,57,24], "cl": [[25,12],[67,48],[32,16]],"notes": ["Not releasable due to small numbers","Not releasable due to small numbers","Not releasable due to small numbers"] },{ "name": "Durham Region Grades 9 to 12", "data": [36,50,13], "cl": [[50,22],[59,42],[19,7]],"notes": [null,"Interpret with caution","Not releasable due to small numbers"] },{ "name": "Ontario Grades 7 and 8", "data": [19,54,27], "cl": [[22,16],[58,51],[30,23]],"notes": [null,null,null] },{ "name": "Ontario Grades 9 to 12", "data": [37,51,12], "cl": [[40,34],[54,49],[14,10]],"notes": [null,null,null] } ]
-      },
-    }
-  },
-  {
+           }
+      }
+    },
+    {
     "pmoID":51,
     "pmoName":"Bullied",
     "description":"Frequency of being bullied at school",
@@ -1127,10 +1127,10 @@
       "byGrade": {
           "labels": [ "Once a week or more","Once a month or less","Not bullied" ],
           "series": [ { "name": "Durham Region Grades 7 and 8", "data": [8,14,78], "cl": [[14,3],[21,7],[84,71]],"notes": ["Not releasable due to small numbers","Not releasable due to small numbers","Not releasable due to small numbers"] },{ "name": "Durham Region Grades 9 to 12", "data": [8,null,85], "cl": [[12,5],[null,null],[88,82]],"notes": ["Interpret with caution","Interpret with caution",null] },{ "name": "Ontario Grades 7 and 8", "data": [10,16,73], "cl": [[13,8],[19,14],[77,70]],"notes": [null,null,null] },{ "name": "Ontario Grades 9 to 12", "data": [6,14,80], "cl": [[8,5],[16,12],[82,78]],"notes": [null,null,null] } ]
-      },
-    }
-  },
-  {
+           }
+      }
+    },
+    {
     "pmoID":52,
     "pmoName":"Bullying Others",
     "description":"Frequency of bullying others at school",
@@ -1148,10 +1148,10 @@
       "byGrade": {
           "labels": [ "No","Yes" ],
           "series": [ { "name": "Durham Region Grades 7 and 8", "data": [90,10], "cl": [[97,84],[16,3]],"notes": ["Not releasable due to small numbers","Not releasable due to small numbers"] },{ "name": "Durham Region Grades 9 to 12", "data": [94,null], "cl": [[100,88],[null,null]],"notes": [null,"Interpret with caution"] },{ "name": "Ontario Grades 7 and 8", "data": [90,10], "cl": [[92,88],[12,8]],"notes": [null,null] },{ "name": "Ontario Grades 9 to 12", "data": [91,9], "cl": [[92,89],[11,8]],"notes": [null,null] } ]
-      },
-    }
-  },
-  {
+           }
+      }
+    },
+    {
     "pmoID":53,
     "pmoName":"Cyberbullied",
     "description":"Frequency of being cyberbullied",
@@ -1169,10 +1169,10 @@
       "byGrade": {
           "labels": [ "Do not use the Internet or cell phone","Never","Once","Twice or more" ],
           "series": [ { "name": "Durham Region Grades 7 and 8", "data": [null,74,9,11], "cl": [[null,null],[81,66],[13,5],[18,5]],"notes": ["Not releasable due to small numbers","Not releasable due to small numbers","Not releasable due to small numbers","Not releasable due to small numbers"] },{ "name": "Durham Region Grades 9 to 12", "data": [10,74,8,8], "cl": [[13,7],[78,70],[10,5],[13,4]],"notes": ["Interpret with caution",null,null,null] },{ "name": "Ontario Grades 7 and 8", "data": [8,69,11,12], "cl": [[10,6],[73,66],[13,9],[14,9]],"notes": [null,null,null,null] },{ "name": "Ontario Grades 9 to 12", "data": [7,71,11,11], "cl": [[8,5],[73,69],[12,9],[13,9]],"notes": [null,null,null,null] } ]
-      },
-    }
-  },
-  {
+           }
+      }
+    },
+    {
     "pmoID":54,
     "pmoName":"Cyberbullying Others",
     "description":"Frequency of cyberbullying other people",
@@ -1190,10 +1190,10 @@
       "byGrade": {
           "labels": [ "No","Yes" ],
           "series": [ { "name": "Durham Region Grades 7 and 8", "data": [91,9], "cl": [[95,88],[12,5]],"notes": ["Not releasable due to small numbers","Not releasable due to small numbers"] },{ "name": "Durham Region Grades 9 to 12", "data": [93,null], "cl": [[99,87],[null,null]],"notes": [null,"Interpret with caution"] },{ "name": "Ontario Grades 7 and 8", "data": [90,10], "cl": [[92,88],[12,8]],"notes": [null,null] },{ "name": "Ontario Grades 9 to 12", "data": [89,11], "cl": [[91,87],[13,9]],"notes": [null,null] } ]
-      },
-    }
-  },
-  {
+           }
+      }
+    },
+    {
     "pmoID":55,
     "pmoName":"Social Media Use",
     "description":"Daily social media use",
