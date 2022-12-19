@@ -33,9 +33,13 @@ exclude: [
   'package-lock.json',
   'node_modules',
   'README.md',
-  'pmo.json',
   'script/src'
   ]
+
+include: [
+  '_data/discoverMe-data.csv',
+  '_data/pmo.json'
+]
 
 # SASS settings
 sass:
