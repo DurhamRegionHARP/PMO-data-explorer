@@ -4,8 +4,8 @@
 # Site settings
 title: "Youth Data Explorer"
 description: "Using the OSDUHS survey, our goal is to provide reliable information about health risk behaviours and attitudes of Durham Region teens, tracking changes over time."
-baseurl: "/"
-url: "https://youthdata.durham.ca"
+baseurl: "/PMO-data-explorer"
+url: "https://durhamregionharp.github.io"
 copyright_date: "2020"
 lang: en-US
 logo: "/assets/icon-128.png"
@@ -33,14 +33,9 @@ exclude: [
   'package-lock.json',
   'node_modules',
   'README.md',
-  'script/src',
-  'assets/email'
+  'pmo.json',
+  'script/src'
   ]
-
-include: [
-  '_data/discoverMe-data.csv',
-  '_data/pmo.json'
-]
 
 # SASS settings
 sass:
